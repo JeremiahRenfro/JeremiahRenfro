@@ -18,7 +18,7 @@ header {
 
 nav {
 width: 960px;
-height: 100px;
+height: 80px;
 padding-top: 5px;
 padding-bottom: 5px;
 color: #000000;
@@ -41,7 +41,7 @@ ul{
 	background-color: #000000;
 	padding-top: 10px;
 	padding-bottom: 15px;
-	height: 50px;
+	height: 30px;
 }
 
 section{
@@ -52,8 +52,8 @@ section{
 	position: relative;
 	top: 0px;
 	color: #000000;
-	left: -330px;
-	height: 399px;
+	left: -360px;
+	height: 150px;
 	
 }
 
@@ -78,3 +78,30 @@ a:hover{
 a:active{
 	color:#FF0000}
 
+#SMBU{
+	position:relative;
+	right: -800px;
+	top: -140px;
+}
+
+#SMBM{
+	position:relative;
+	right: -800px;
+	top: -150px;
+}
+
+#DBFZ{
+	position:relative;
+	right: -800px;
+	top: -150px
+}
+
+#UMVC3{
+	position:relative;
+	right: -800px;
+	top: -150px
+}
+
+#Last{
+width: 1500px
+}
