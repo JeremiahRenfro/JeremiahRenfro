@@ -18,7 +18,7 @@ header {
 
 nav {
 width: 960px;
-height: 100px;
+height: 80px;
 padding-top: 5px;
 padding-bottom: 5px;
 color: #000000;
@@ -41,19 +41,19 @@ ul{
 	background-color: #000000;
 	padding-top: 10px;
 	padding-bottom: 15px;
-	height: 50px;
+	height: 30px;
 }
 
 section{
 	font-family: Arial, Herlvetica, sans-serif;
 	font-size: 30px;
 	line-height: 45px;
-	width: 960px;
+	width: 1500px;
 	position: relative;
 	top: 0px;
 	color: #000000;
-	left: -330px;
-	height: 399px;
+	left: -360px;
+	height: 300px;
 	
 }
 
